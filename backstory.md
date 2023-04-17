@@ -1,0 +1,14 @@
+## Backstory
+
+Slippers' life began with a mystery. Found as a baby wearing beautiful elven slippers, no one knew who his mother was or why she abandoned him in the forest. His human father, Aric, took him in and raised him in a small village deep in the Forest of Tethir, where he was taught to hunt by his great uncle Jorin.
+
+Despite being half-elf, Slippers quickly became the best hunter in the village. His elven heritage gave him an edge in the forest, but his natural talent and quick reflexes made him a force to be reckoned with. Unfortunately, not everyone in the village appreciated his mixed heritage, and he was never formally acknowledged as the best hunter. This made him feel like an outcast, but he persevered and kept honing his skills.
+
+When Jorin died, Slippers felt lost and alone. He knew it was time to leave the village and seek adventure. He took Jorin's hunting equipment and his tiny elven slippers and headed to Baldur's Gate. There, he encountered all manner of rogues, thieves, and adventurers. The city was alive with energy, and Slippers soaked it all in.
+
+Soon enough, he was ready for the next challenge. Slippers embarked on a sea voyage to the distant land of Chult, where he encountered dinosaurs and undead creatures unlike anything he'd ever seen. He was exhilarated by the danger and excitement of his new surroundings. Slippers quickly became known for his stealthy movements, which earned him his nickname. He moved like a pair of slippers in the night, leaving no trace behind.
+After his adventures in Chult, Slippers returned to the mainland, where he decided to settle in the wilderness. He built a small home and continued to hone his skills as a hunter. But he knew there was more to life than just surviving in the woods. He yearned for the thrill of adventure and the chance to uncover the mystery of his elven heritage. There was a fire burning inside him, a drive to find out who he truly was.
+
+Now, Slippers spends his days wandering the forest, always on the lookout for danger and excitement. He knows that the answers he seeks are out there, waiting for him to find them. With his trusty bow and elven slippers on his feet, he's ready for whatever challenges come his way. For Slippers, the hunt is never over.
+
+[←back](readme.md) [next→](000.md)
