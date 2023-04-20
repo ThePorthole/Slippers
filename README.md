@@ -9,3 +9,4 @@ Location: Waterdeep
 ### Story
 [Backstory](000.md)  
 [Prelude](001.md)  
+[Opportunity!](002.md)  
